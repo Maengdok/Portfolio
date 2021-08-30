@@ -83,11 +83,11 @@ WSGI_APPLICATION = 'Maengdok.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'maengdok',
-        'USER': 'root',
-        'PASSWORD': 'rxJW<q2u',
-        'HOST': 'localhost',
-        'PORT': '3306',
+        'NAME': '',
+        'USER': '',
+        'PASSWORD': '',
+        'HOST': '',
+        'PORT': '',
     }
 }
 
